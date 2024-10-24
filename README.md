@@ -38,7 +38,23 @@ To replicate this project, you need the following tools:
 
 ## Installation and Setup
 
-### 1. Clone the Repository
+### 1. Virtual Machine SSH
 ```bash
-git clone <repository-url>
-cd <repository-name>
+sudo apt-get update
+sudo apt-get install python3-distutils
+sudo apt-get install wget
+sudo apt install python3-pip
+python3 -m venv myenv
+sudo apt install python3-venv
+source myenv/bin/activate
+python3 -m venv myenv
+source myenv/bin/activate
+python3 -m pip install --upgrade pip
+python3
+quit()
+pip3 install pandas
+pip3 install mage-ai
+pip3 install google-cloud
+pip install google-cloud-bigquery
+pip install db-dtypes
+mage start uber_shubham_project
