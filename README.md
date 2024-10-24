@@ -7,6 +7,10 @@ This project demonstrates an end-to-end ETL pipeline for processing and analyzin
 The dataset was sourced from the [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 
+https://github.com/shrishu316/Uber_Trip_Data_ETL_Pipeline-BigQuery-and_Dashboarding_with_Looker/issues/new
+
+![Uber_ETL_pipeline](https://github.com/user-attachments/assets/781b6130-74ba-44ac-a97a-cadfcd24c96c)
+
 
 ## Key Components
 1. **Data Cleaning**: Initial data cleaning was done using Jupyter Notebook, which involved handling missing values, correcting data types, and removing unnecessary columns from the raw dataset.
