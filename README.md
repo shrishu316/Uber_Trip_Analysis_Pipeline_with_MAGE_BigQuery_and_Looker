@@ -7,7 +7,7 @@ This project demonstrates an end-to-end ETL pipeline for processing and analyzin
 The dataset was sourced from the [NYC TLC Trip Record Data](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page).
 
 
-https://github.com/shrishu316/Uber_Trip_Data_ETL_Pipeline-BigQuery-and_Dashboarding_with_Looker/issues/new
+![Uber_data_model drawio](https://github.com/user-attachments/assets/369ed4f0-d21a-4df0-9621-081c88b55cf0)
 
 ![Uber_ETL_pipeline](https://github.com/user-attachments/assets/781b6130-74ba-44ac-a97a-cadfcd24c96c)
 
