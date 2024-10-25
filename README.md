@@ -34,13 +34,13 @@ The pipeline is composed of the following stages:
 
 #### 1. ETL Pipeline Workflow
 
-![ETL Pipeline](./Uber_ETL_pipeline.jpg)
+![Uber_ETL_pipeline](https://github.com/user-attachments/assets/43fe36f1-548a-4276-8a33-73b344d15725)
 
 The diagram above illustrates the ETL pipeline used in this project. The raw data is stored in Google Cloud Storage, processed and transformed using the MAGE tool, and then loaded into BigQuery for analysis. Finally, the data is visualized using Looker Studio.
 
 #### 2. Data Model (Fact and Dimension Tables)
 
-![Data Model](./Uber_data_model.drawio.png)
+![Uber_data_model drawio](https://github.com/user-attachments/assets/c3ab755f-9731-4a0c-8a7c-f31a0e498165)
 
 The diagram above represents the data model used in the project. It showcases the relationships between the fact table and dimension tables, enabling efficient querying and analysis.
 
