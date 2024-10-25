@@ -118,6 +118,8 @@ The Looker dashboard offers visualizations for:
 - **Passenger Trends**: Insights into peak hours and high-demand locations.
 - **Trip Distance Analysis**: Average trip distances segmented by time of day and location.
 
+![Dashboard](https://github.com/user-attachments/assets/cbe94a3e-ff47-4ee1-91a0-b38674701308)
+
 ## Future Improvements
 
 - **Data Enrichment**: Incorporate weather and event data to analyze their impact on taxi usage.
