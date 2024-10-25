@@ -1,6 +1,6 @@
 # Uber Trip Analysis Pipeline with MAGE, BigQuery, and Looker
 
-This project demonstrates a comprehensive ETL pipeline designed to process, analyze, and visualize NYC taxi trip data. Leveraging the MAGE open-source ETL tool, Google BigQuery for data storage and analysis, and Looker Studio for insightful data visualizations, this repository outlines a complete workflow for turning raw data into valuable business insights.
+This project demonstrates a comprehensive ETL pipeline designed to process, analyze, and visualize Uber trip data. Leveraging the MAGE open-source ETL tool, Google BigQuery for data storage and analysis, and Looker Studio for insightful data visualizations, this repository outlines a complete workflow for turning raw data into valuable business insights.
 
 ## Table of Contents
 
